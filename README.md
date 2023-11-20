@@ -1,1 +1,1 @@
-## QR code detection from an image After fine-tuning the Detectron2 model
+## QR code detection after fine-tuning the Detectron2 model
