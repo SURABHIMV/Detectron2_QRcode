@@ -1,6 +1,6 @@
 # QR code detection using the Detectron2 model
 
-This repository contains code to detect QR codes in an image. It also mentions the label ('QRCODE') and the percentage, indicating how much percentage of the QR code is detected, using a finetuned Detectron2 model.
+This repository contains code to detect QR codes in an image using a fine-tuned Detectron2 model. It also mentions the label ('QR_CODE') and the percentage, indicating how much percentage of the QR code is detected.
 
 ## Files
 
