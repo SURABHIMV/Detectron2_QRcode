@@ -4,7 +4,7 @@ This repository contains code to detect QR codes in an image using a fine-tuned 
 
 ## 🛣️ Roadmap to reproduce the result
 
-* The dataset "QR Code.v2i.coco.zip" is loaded in the notebook "Detectron2.ipynb," and after all the data processing as given the code, the model is trained on the train data. Its results are then evaluated on the test data.
+The dataset "QR Code.v2i.coco.zip" is loaded in the notebook "Detectron2.ipynb," and after all the data processing as given the code, the model is trained on the train data. Its results are then evaluated on the test data.
 
 ## 📝 Files
 
